@@ -148,7 +148,6 @@ export const Footer: React.FC = () => {
             {/* Newsletter */}
             <div className="mb-8">
               <p className="text-blue-100 mb-4">
-                Zapisz się do newslettera i otrzymuj informacje o najnowszych rozwiązaniach energetycznych.
               </p>
               <div className="flex">
                 <input
